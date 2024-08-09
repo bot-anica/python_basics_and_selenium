@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23c3a7af-fcd4-46cf-827d-e78f1a013dd3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lowlifeboy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bot-anica/python_basics_and_selenium.git",
+    "accountId": "634a39a2-9502-4ccf-b845-c45a206a5328"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2j0RaGnpy2ptN6BD1ulbwFcHH7b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.10.1_list_comprehensios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.2_set_comprehensions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.3_dictionary_comprehensions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.1_exeptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.2_multiple_exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.3_else_and_finally_in_try_except.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.4_exception_generation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.1_Work_with_files_UTF_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.2_read_from_txt_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.2_write_to_txt_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.4_json_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.5_csv_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.1_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.3_function_arguments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.4_function_documentation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.5_visibility_areas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.6_return_one_or_few_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.7_exceptions_in_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.1_typings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14.3_typing_for_selenium_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.1_lambda_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.2_map_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.3_filter_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.4_sorted_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15.5_any_and_all_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17.1_libraries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2_math_operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3_logic_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20.1_selenium_driver.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21.1_selenium_webdriver_and_by.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21.2_selenium_by_css_selector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21.2_selenium_webdriver_and_by.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21.3_selenium_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22.2_data_extraction_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.2_work_with_mouse_in_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23.3_work_with_keyboard_in_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.1_work_with_browser_tabs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24.2_threading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.1_work_with_forms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.2_work_with_google_forms.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.3_work_with_gf_using_hotkeys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25.4_work_with_gf_using_own_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26.1_implicitly_wait_in_selenium.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26.2_waiting_for_an_item_to_appear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26.3_waiting_until_element_become_visible.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26.4_waiting_until_element_to_be_clickable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2_data_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.1_control_sequences.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.2_formated_strings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.3_string_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.4_strings_and_math_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.1_conditional_statements_and_logic_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.1_logic_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.3_if_elif_and_string_operator_in.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.4_weather.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.5_grade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4.6_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.1_for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.2_for_loop_control_operators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.3_mumble_task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.1_lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.2_list_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.3_split_and_join_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.4_range_and_enumerate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.5_mumble_task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.6_creating_products_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6.7_tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.1_while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7.2_palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.1_sets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8.2_sets_using_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.1_dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.2_dictionary_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.3_dictionaries_on_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9.4_dictionaries_on_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW1_Day_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW2_Day_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3_Day_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW4_Day_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.core.executor&quot;: &quot;Run&quot;,
+    &quot;Python.google_form.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kostasavcenko/PycharmProjects/basic_python_and selenium&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day 26" />
+      <recent name="$PROJECT_DIR$/Day 25" />
+      <recent name="$PROJECT_DIR$/Day 24" />
+      <recent name="$PROJECT_DIR$/Day 23" />
+      <recent name="$PROJECT_DIR$/Day 21" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/chrome_extensions" />
+      <recent name="$PROJECT_DIR$/Day 23" />
+      <recent name="$PROJECT_DIR$/Day 21" />
+      <recent name="$PROJECT_DIR$/Day 17" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.25.3_work_with_gf_using_hotkeys">
+    <configuration name="25.3_work_with_gf_using_hotkeys" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 25/25.3_work_with_gf_using_hotkeys.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="25.4_work_with_gf_using_own_library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 25/25.4_work_with_gf_using_own_library.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="26.2_waiting_for_an_item_to_appear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/26.2_waiting_for_an_item_to_appear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="26.3_waiting_until_element_become_visible" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/26.3_waiting_until_element_become_visible.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="26.4_waiting_until_element_to_be_clickable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 26/26.4_waiting_until_element_to_be_clickable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.25.3_work_with_gf_using_hotkeys" />
+        <item itemvalue="Python.25.4_work_with_gf_using_own_library" />
+        <item itemvalue="Python.26.4_waiting_until_element_to_be_clickable" />
+        <item itemvalue="Python.26.3_waiting_until_element_become_visible" />
+        <item itemvalue="Python.26.2_waiting_for_an_item_to_appear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23c3a7af-fcd4-46cf-827d-e78f1a013dd3" name="Changes" comment="" />
+      <created>1720522071919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720522071919</updated>
+      <workItem from="1722004939701" duration="43000" />
+      <workItem from="1722005181665" duration="484000" />
+      <workItem from="1722067642890" duration="222000" />
+      <workItem from="1722067913944" duration="598000" />
+      <workItem from="1722072305153" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day 26/26.4_waiting_until_element_to_be_clickable.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day 26/26.4_waiting_until_element_to_be_clickable.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Day 26/26.4_waiting_until_element_to_be_clickable.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/basic_python_and_selenium$25_4_work_with_gf_using_own_library.coverage" NAME="25.4_work_with_gf_using_own_library Coverage Results" MODIFIED="1722187939514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 25" />
+    <SUITE FILE_PATH="coverage/basic_python_and_selenium$25_3_work_with_gf_using_hotkeys.coverage" NAME="25.3_work_with_gf_using_hotkeys Coverage Results" MODIFIED="1723234709138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 25" />
+    <SUITE FILE_PATH="coverage/basic_python_and_selenium$26_4_waiting_until_element_to_be_clickable.coverage" NAME="26.4_waiting_until_element_to_be_clickable Coverage Results" MODIFIED="1722185871400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 26" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+[
+    {
+        "name": "John",
+        "age": 25,
+        "grades": [
+            88,
+            76,
+            92
+        ],
+        "got_a": true
+    },
+    {
+        "name": "Alice",
+        "age": 22,
+        "grades": [
+            100,
+            100,
+            100
+        ],
+        "got_a": true
+    },
+    {
+        "name": "Bob",
+        "age": 30,
+        "grades": [
+            80,
+            70,
+            90
+        ],
+        "got_a": false
+    },
+    {
+        "name": "Сергей",
+        "age": 25,
+        "grades": [
+            88,
+            76,
+            92
+        ],
+        "got_a": true
+    }
+]
